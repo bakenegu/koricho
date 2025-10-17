@@ -26,9 +26,9 @@ export function Navigation() {
             <Image
               src="/koricho-logo-transparent.png"
               alt="Koricho Logo"
-              width={80}
-              height={80}
-              className="w-16 h-16 drop-shadow-xl"
+              width={160}
+              height={160}
+              className="w-24 h-24 drop-shadow-xl"
             />
             <span className="font-bold text-2xl tracking-tight">Koricho</span>
           </Link>

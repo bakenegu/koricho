@@ -55,7 +55,10 @@ export default function AboutPage() {
       </section>
 
       {/* Mission & Vision */}
-      <section className="py-20 bg-muted">
+      <section
+        className="py-20 bg-muted bg-cover bg-center"
+        style={{ backgroundImage: "url('/Herosection.png')" }}
+      >
         <div className="container mx-auto px-4">
           <div className="grid md:grid-cols-2 gap-8">
             <Card className="border-2">

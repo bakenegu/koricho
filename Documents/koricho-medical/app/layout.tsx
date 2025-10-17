@@ -24,9 +24,11 @@ export default function RootLayout({
     <html lang="en">
       <body className={`font-sans ${GeistSans.variable} ${GeistMono.variable} antialiased`}>
         <Suspense fallback={<div>Loading...</div>}>
-          <Navigation />
-          <main className="pt-16">{children}</main>
-          <Footer />
+          <div className="flex min-h-screen flex-col">
+            <Navigation />
+            <main className="flex-1 pt-20">{children}</main>
+            <Footer />
+          </div>
         </Suspense>
         <Toaster />
         <Analytics />

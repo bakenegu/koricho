@@ -48,6 +48,55 @@ export default async function ArticleView({ searchParams }: { searchParams: { ur
       const $ = cheerio.load(html)
       fetched = true
 
+      // Convert relative URLs to absolute so images/links work
+      const toAbs = (u?: string) => {
+        if (!u) return u
+        try {
+          if (/^(data:|mailto:|tel:|javascript:)/i.test(u)) return u
+          if (/^https?:\/\//i.test(u)) return u
+          return new URL(u, url).toString()
+        } catch {
+          return u
+        }
+      }
+
+      // src, href, poster
+      $("[src]").each((_, el) => {
+        const v = $(el).attr("src")
+        const a = toAbs(v)
+        if (a && a !== v) $(el).attr("src", a)
+      })
+      $("[href]").each((_, el) => {
+        const v = $(el).attr("href")
+        const a = toAbs(v)
+        if (a && a !== v) $(el).attr("href", a)
+      })
+      $("[poster]").each((_, el) => {
+        const v = $(el).attr("poster")
+        const a = toAbs(v)
+        if (a && a !== v) $(el).attr("poster", a)
+      })
+      // srcset handling (comma-separated entries)
+      $("[srcset]").each((_, el) => {
+        const v = $(el).attr("srcset")
+        if (!v) return
+        const rewritten = v
+          .split(",")
+          .map((part) => {
+            const trimmed = part.trim()
+            const spaceIdx = trimmed.indexOf(" ")
+            if (spaceIdx === -1) {
+              return toAbs(trimmed) || trimmed
+            }
+            const urlPart = trimmed.slice(0, spaceIdx)
+            const desc = trimmed.slice(spaceIdx + 1)
+            const abs = toAbs(urlPart) || urlPart
+            return `${abs} ${desc}`
+          })
+          .join(", ")
+        $(el).attr("srcset", rewritten)
+      })
+
       title =
         pickText($, [
           "meta[property='og:title']",
