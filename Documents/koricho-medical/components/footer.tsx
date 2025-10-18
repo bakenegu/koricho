@@ -4,9 +4,9 @@ import Image from "next/image"
 
 export function Footer() {
   return (
-    <footer className="relative bg-[#00c98a] border-t border-border overflow-hidden">
+    <footer className="relative bg-[#00c98a] overflow-hidden">
       {/* Water wave animation at top */}
-      <div className="absolute top-0 left-0 right-0 pointer-events-none z-10">
+      <div className="absolute top-0 left-0 right-0 pointer-events-none z-20">
         <svg className="w-full h-24" viewBox="0 0 1200 120" preserveAspectRatio="none" xmlns="http://www.w3.org/2000/svg">
           <path
             d="M0,40 C200,80 400,0 600,40 C800,80 1000,0 1200,40 L1200,120 L0,120 Z"
