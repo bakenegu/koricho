@@ -4093,3 +4093,381 @@ explode 2025-09-30 06:03:51.929       tray   ctrl   2849   3049            base.
    info 2025-10-15 05:26:27.125       tray   main   2910   2910                       base.signal.hub - 1 threads.
    info 2025-10-15 05:26:27.126       tray   main   2910   2910                    app.tunnel_ft_comp - Ready.
    info 2025-10-15 05:26:27.348       tray   ctrl   2910   3107                      unix_app.control - Control startup.
+   info 2025-10-15 12:49:38.691         ad   main   2745   2745                         impl_selector - using avx2
+ * * * * * * * * * * * * * * * * * *
+   info 2025-10-15 12:49:38.692         ad   main   2745   2745                                  main - * AnyDesk Linux Startup *
+   info 2025-10-15 12:49:38.692         ad   main   2745   2745                                  main - * Version 7.0.2 ((unknown) 81073ca0a257bad0e07ac7286c58626bb3094524)
+   info 2025-10-15 12:49:38.692         ad   main   2745   2745                                  main - * Build 20250710152955
+   info 2025-10-15 12:49:38.692         ad   main   2745   2745                                  main - * Prefix ad
+   info 2025-10-15 12:49:38.692         ad   main   2745   2745                                  main - * Copyright (C) 2025 AnyDesk Software GmbH *
+   info 2025-10-15 12:49:38.692         ad   main   2745   2745                                  main - 
+   info 2025-10-15 12:49:38.692         ad   main   2745   2745                                  main - Distribution Info: Ubuntu 24.04.3 LTS
+   info 2025-10-15 12:49:38.692         ad   main   2745   2745                                  main - Command Line params: '--tray'
+   info 2025-10-15 12:49:38.692         ad   main   2745   2745                                  main - Found GLib Version: 2.80.
+   info 2025-10-15 12:49:38.713         ad   main   2745   2745                       app.common_path - user_data_dir = /home/biruk/.anydesk, logged_in_user_data_dir = /home/biruk/.anydesk, current_home = /home/biruk
+
+   info 2025-10-15 12:49:38.713         ad   main   2745   2745                       app.common_path - initialized user = /home/biruk/.anydesk, system = /etc/anydesk
+   info 2025-10-15 12:49:38.720       tray   main   2745   2745                           gui.gui_app - DPI scaling: 1.00 / 1.00
+   info 2025-10-15 12:49:38.720       tray   main   2745   2745                           gui.gui_app - Using std-resolution bitmaps.
+   info 2025-10-15 12:49:38.778       tray   main   2745   2745                       base.signal.hub - 1 threads.
+   info 2025-10-15 12:49:38.778       tray   main   2745   2745                    app.tunnel_ft_comp - Ready.
+   info 2025-10-15 12:49:38.995       tray   ctrl   2745   2959                      unix_app.control - Control startup.
+  error 2025-10-15 12:49:38.996       tray   ctrl   2745   2959              base.signal.global.event - Cannot set the subsignal count to a smaller or equal value.
+   info 2025-10-16 05:40:35.796         ad   main   2941   2941                         impl_selector - using avx2
+ * * * * * * * * * * * * * * * * * *
+   info 2025-10-16 05:40:35.797         ad   main   2941   2941                                  main - * AnyDesk Linux Startup *
+   info 2025-10-16 05:40:35.797         ad   main   2941   2941                                  main - * Version 7.0.2 ((unknown) 81073ca0a257bad0e07ac7286c58626bb3094524)
+   info 2025-10-16 05:40:35.797         ad   main   2941   2941                                  main - * Build 20250710152955
+   info 2025-10-16 05:40:35.797         ad   main   2941   2941                                  main - * Prefix ad
+   info 2025-10-16 05:40:35.797         ad   main   2941   2941                                  main - * Copyright (C) 2025 AnyDesk Software GmbH *
+   info 2025-10-16 05:40:35.797         ad   main   2941   2941                                  main - 
+   info 2025-10-16 05:40:35.797         ad   main   2941   2941                                  main - Distribution Info: Ubuntu 24.04.3 LTS
+   info 2025-10-16 05:40:35.797         ad   main   2941   2941                                  main - Command Line params: '--tray'
+   info 2025-10-16 05:40:35.797         ad   main   2941   2941                                  main - Found GLib Version: 2.80.
+   info 2025-10-16 05:40:35.811         ad   main   2941   2941                       app.common_path - user_data_dir = /home/biruk/.anydesk, logged_in_user_data_dir = /home/biruk/.anydesk, current_home = /home/biruk
+
+   info 2025-10-16 05:40:35.811         ad   main   2941   2941                       app.common_path - initialized user = /home/biruk/.anydesk, system = /etc/anydesk
+   info 2025-10-16 05:40:35.817       tray   main   2941   2941                           gui.gui_app - DPI scaling: 1.00 / 1.00
+   info 2025-10-16 05:40:35.817       tray   main   2941   2941                           gui.gui_app - Using std-resolution bitmaps.
+   info 2025-10-16 05:40:36.005       tray   main   2941   2941                       base.signal.hub - 1 threads.
+   info 2025-10-16 05:40:36.005       tray   main   2941   2941                    app.tunnel_ft_comp - Ready.
+   info 2025-10-16 05:40:36.152       tray   ctrl   2941   3154                      unix_app.control - Control startup.
+  error 2025-10-16 05:40:36.154       tray   ctrl   2941   3154              base.signal.global.event - Cannot set the subsignal count to a smaller or equal value.
+   info 2025-10-16 05:40:36.162       tray   main   2941   3152                 data_control_listener - Aborting initialization of assembly data control. (feature disabled)
+  error 2025-10-16 05:40:36.162       tray   main   2941   3152                         ipc_apartment - Stub factory for IID (0xa3bee6f4f054b80f, 0x75ea4b5c9482a809) not found.
+  error 2025-10-16 05:40:36.164       tray   main   2941   3098                         ipc_apartment - Invoker factory for rpc_acquire not found.
+   info 2025-10-16 13:28:22.060         ad   main   2773   2773                         impl_selector - using avx2
+ * * * * * * * * * * * * * * * * * *
+   info 2025-10-16 13:28:22.061         ad   main   2773   2773                                  main - * AnyDesk Linux Startup *
+   info 2025-10-16 13:28:22.061         ad   main   2773   2773                                  main - * Version 7.0.2 ((unknown) 81073ca0a257bad0e07ac7286c58626bb3094524)
+   info 2025-10-16 13:28:22.061         ad   main   2773   2773                                  main - * Build 20250710152955
+   info 2025-10-16 13:28:22.061         ad   main   2773   2773                                  main - * Prefix ad
+   info 2025-10-16 13:28:22.061         ad   main   2773   2773                                  main - * Copyright (C) 2025 AnyDesk Software GmbH *
+   info 2025-10-16 13:28:22.061         ad   main   2773   2773                                  main - 
+   info 2025-10-16 13:28:22.061         ad   main   2773   2773                                  main - Distribution Info: Ubuntu 24.04.3 LTS
+   info 2025-10-16 13:28:22.061         ad   main   2773   2773                                  main - Command Line params: '--tray'
+   info 2025-10-16 13:28:22.061         ad   main   2773   2773                                  main - Found GLib Version: 2.80.
+   info 2025-10-16 13:28:22.075         ad   main   2773   2773                       app.common_path - user_data_dir = /home/biruk/.anydesk, logged_in_user_data_dir = /home/biruk/.anydesk, current_home = /home/biruk
+
+   info 2025-10-16 13:28:22.075         ad   main   2773   2773                       app.common_path - initialized user = /home/biruk/.anydesk, system = /etc/anydesk
+   info 2025-10-16 13:28:22.080       tray   main   2773   2773                           gui.gui_app - DPI scaling: 1.00 / 1.00
+   info 2025-10-16 13:28:22.080       tray   main   2773   2773                           gui.gui_app - Using std-resolution bitmaps.
+   info 2025-10-16 13:28:22.135       tray   main   2773   2773                       base.signal.hub - 1 threads.
+   info 2025-10-16 13:28:22.136       tray   main   2773   2773                    app.tunnel_ft_comp - Ready.
+   info 2025-10-16 13:28:22.335       tray   ctrl   2773   2938                      unix_app.control - Control startup.
+   info 2025-10-17 05:37:28.351         ad   main   2780   2780                         impl_selector - using avx2
+ * * * * * * * * * * * * * * * * * *
+   info 2025-10-17 05:37:28.352         ad   main   2780   2780                                  main - * AnyDesk Linux Startup *
+   info 2025-10-17 05:37:28.352         ad   main   2780   2780                                  main - * Version 7.0.2 ((unknown) 81073ca0a257bad0e07ac7286c58626bb3094524)
+   info 2025-10-17 05:37:28.352         ad   main   2780   2780                                  main - * Build 20250710152955
+   info 2025-10-17 05:37:28.352         ad   main   2780   2780                                  main - * Prefix ad
+   info 2025-10-17 05:37:28.352         ad   main   2780   2780                                  main - * Copyright (C) 2025 AnyDesk Software GmbH *
+   info 2025-10-17 05:37:28.352         ad   main   2780   2780                                  main - 
+   info 2025-10-17 05:37:28.352         ad   main   2780   2780                                  main - Distribution Info: Ubuntu 24.04.3 LTS
+   info 2025-10-17 05:37:28.352         ad   main   2780   2780                                  main - Command Line params: '--tray'
+   info 2025-10-17 05:37:28.352         ad   main   2780   2780                                  main - Found GLib Version: 2.80.
+   info 2025-10-17 05:37:28.371         ad   main   2780   2780                       app.common_path - user_data_dir = /home/biruk/.anydesk, logged_in_user_data_dir = /home/biruk/.anydesk, current_home = /home/biruk
+
+   info 2025-10-17 05:37:28.372         ad   main   2780   2780                       app.common_path - initialized user = /home/biruk/.anydesk, system = /etc/anydesk
+   info 2025-10-17 05:37:28.376       tray   main   2780   2780                           gui.gui_app - DPI scaling: 1.00 / 1.00
+   info 2025-10-17 05:37:28.376       tray   main   2780   2780                           gui.gui_app - Using std-resolution bitmaps.
+   info 2025-10-17 05:37:28.433       tray   main   2780   2780                       base.signal.hub - 1 threads.
+   info 2025-10-17 05:37:28.433       tray   main   2780   2780                    app.tunnel_ft_comp - Ready.
+   info 2025-10-17 05:37:28.677       tray   ctrl   2780   2992                      unix_app.control - Control startup.
+   info 2025-10-17 12:12:38.251         ad   main   2794   2794                         impl_selector - using avx2
+ * * * * * * * * * * * * * * * * * *
+   info 2025-10-17 12:12:38.252         ad   main   2794   2794                                  main - * AnyDesk Linux Startup *
+   info 2025-10-17 12:12:38.252         ad   main   2794   2794                                  main - * Version 7.0.2 ((unknown) 81073ca0a257bad0e07ac7286c58626bb3094524)
+   info 2025-10-17 12:12:38.252         ad   main   2794   2794                                  main - * Build 20250710152955
+   info 2025-10-17 12:12:38.252         ad   main   2794   2794                                  main - * Prefix ad
+   info 2025-10-17 12:12:38.252         ad   main   2794   2794                                  main - * Copyright (C) 2025 AnyDesk Software GmbH *
+   info 2025-10-17 12:12:38.252         ad   main   2794   2794                                  main - 
+   info 2025-10-17 12:12:38.253         ad   main   2794   2794                                  main - Distribution Info: Ubuntu 24.04.3 LTS
+   info 2025-10-17 12:12:38.253         ad   main   2794   2794                                  main - Command Line params: '--tray'
+   info 2025-10-17 12:12:38.253         ad   main   2794   2794                                  main - Found GLib Version: 2.80.
+   info 2025-10-17 12:12:38.276         ad   main   2794   2794                       app.common_path - user_data_dir = /home/biruk/.anydesk, logged_in_user_data_dir = /home/biruk/.anydesk, current_home = /home/biruk
+
+   info 2025-10-17 12:12:38.276         ad   main   2794   2794                       app.common_path - initialized user = /home/biruk/.anydesk, system = /etc/anydesk
+   info 2025-10-17 12:12:38.291       tray   main   2794   2794                           gui.gui_app - DPI scaling: 1.00 / 1.00
+   info 2025-10-17 12:12:38.291       tray   main   2794   2794                           gui.gui_app - Using std-resolution bitmaps.
+   info 2025-10-17 12:12:38.350       tray   main   2794   2794                       base.signal.hub - 1 threads.
+   info 2025-10-17 12:12:38.351       tray   main   2794   2794                    app.tunnel_ft_comp - Ready.
+   info 2025-10-17 12:12:38.566       tray   ctrl   2794   2982                      unix_app.control - Control startup.
+  error 2025-10-17 12:12:38.568       tray   ctrl   2794   2982              base.signal.global.event - Cannot set the subsignal count to a smaller or equal value.
+   info 2025-10-17 12:32:33.683         ad   main   2777   2777                         impl_selector - using avx2
+ * * * * * * * * * * * * * * * * * *
+   info 2025-10-17 12:32:33.684         ad   main   2777   2777                                  main - * AnyDesk Linux Startup *
+   info 2025-10-17 12:32:33.684         ad   main   2777   2777                                  main - * Version 7.0.2 ((unknown) 81073ca0a257bad0e07ac7286c58626bb3094524)
+   info 2025-10-17 12:32:33.684         ad   main   2777   2777                                  main - * Build 20250710152955
+   info 2025-10-17 12:32:33.684         ad   main   2777   2777                                  main - * Prefix ad
+   info 2025-10-17 12:32:33.684         ad   main   2777   2777                                  main - * Copyright (C) 2025 AnyDesk Software GmbH *
+   info 2025-10-17 12:32:33.684         ad   main   2777   2777                                  main - 
+   info 2025-10-17 12:32:33.684         ad   main   2777   2777                                  main - Distribution Info: Ubuntu 24.04.3 LTS
+   info 2025-10-17 12:32:33.684         ad   main   2777   2777                                  main - Command Line params: '--tray'
+   info 2025-10-17 12:32:33.684         ad   main   2777   2777                                  main - Found GLib Version: 2.80.
+   info 2025-10-17 12:32:33.703         ad   main   2777   2777                       app.common_path - user_data_dir = /home/biruk/.anydesk, logged_in_user_data_dir = /home/biruk/.anydesk, current_home = /home/biruk
+
+   info 2025-10-17 12:32:33.703         ad   main   2777   2777                       app.common_path - initialized user = /home/biruk/.anydesk, system = /etc/anydesk
+   info 2025-10-17 12:32:33.718       tray   main   2777   2777                           gui.gui_app - DPI scaling: 1.00 / 1.00
+   info 2025-10-17 12:32:33.718       tray   main   2777   2777                           gui.gui_app - Using std-resolution bitmaps.
+   info 2025-10-17 12:32:33.821       tray   main   2777   2777                       base.signal.hub - 1 threads.
+   info 2025-10-17 12:32:33.821       tray   main   2777   2777                    app.tunnel_ft_comp - Ready.
+   info 2025-10-17 12:32:34.011       tray   main   2777   2958                 data_control_listener - Aborting initialization of assembly data control. (feature disabled)
+   info 2025-10-17 13:05:55.179         ad   main   2758   2758                         impl_selector - using avx2
+ * * * * * * * * * * * * * * * * * *
+   info 2025-10-17 13:05:55.179         ad   main   2758   2758                                  main - * AnyDesk Linux Startup *
+   info 2025-10-17 13:05:55.179         ad   main   2758   2758                                  main - * Version 7.0.2 ((unknown) 81073ca0a257bad0e07ac7286c58626bb3094524)
+   info 2025-10-17 13:05:55.179         ad   main   2758   2758                                  main - * Build 20250710152955
+   info 2025-10-17 13:05:55.179         ad   main   2758   2758                                  main - * Prefix ad
+   info 2025-10-17 13:05:55.179         ad   main   2758   2758                                  main - * Copyright (C) 2025 AnyDesk Software GmbH *
+   info 2025-10-17 13:05:55.179         ad   main   2758   2758                                  main - 
+   info 2025-10-17 13:05:55.179         ad   main   2758   2758                                  main - Distribution Info: Ubuntu 24.04.3 LTS
+   info 2025-10-17 13:05:55.179         ad   main   2758   2758                                  main - Command Line params: '--tray'
+   info 2025-10-17 13:05:55.179         ad   main   2758   2758                                  main - Found GLib Version: 2.80.
+   info 2025-10-17 13:05:55.197         ad   main   2758   2758                       app.common_path - user_data_dir = /home/biruk/.anydesk, logged_in_user_data_dir = /home/biruk/.anydesk, current_home = /home/biruk
+
+   info 2025-10-17 13:05:55.197         ad   main   2758   2758                       app.common_path - initialized user = /home/biruk/.anydesk, system = /etc/anydesk
+   info 2025-10-17 13:05:55.203       tray   main   2758   2758                           gui.gui_app - DPI scaling: 1.00 / 1.00
+   info 2025-10-17 13:05:55.203       tray   main   2758   2758                           gui.gui_app - Using std-resolution bitmaps.
+   info 2025-10-17 13:05:55.269       tray   main   2758   2758                       base.signal.hub - 1 threads.
+   info 2025-10-17 13:05:55.270       tray   main   2758   2758                    app.tunnel_ft_comp - Ready.
+   info 2025-10-17 13:05:55.447       tray   ctrl   2758   2931                      unix_app.control - Control startup.
+  error 2025-10-17 13:05:55.448       tray   main   2758   2929                         ipc_apartment - Stub factory for IID (0x2ecc363f8b08ca23, 0x5d1db537bf5eaabe) not found.
+  error 2025-10-17 13:05:55.450       tray   ctrl   2758   2931              base.signal.global.event - Cannot set the subsignal count to a smaller or equal value.
+   info 2025-10-17 13:36:21.818         ad   main   2776   2776                         impl_selector - using avx2
+ * * * * * * * * * * * * * * * * * *
+   info 2025-10-17 13:36:21.818         ad   main   2776   2776                                  main - * AnyDesk Linux Startup *
+   info 2025-10-17 13:36:21.818         ad   main   2776   2776                                  main - * Version 7.0.2 ((unknown) 81073ca0a257bad0e07ac7286c58626bb3094524)
+   info 2025-10-17 13:36:21.818         ad   main   2776   2776                                  main - * Build 20250710152955
+   info 2025-10-17 13:36:21.818         ad   main   2776   2776                                  main - * Prefix ad
+   info 2025-10-17 13:36:21.818         ad   main   2776   2776                                  main - * Copyright (C) 2025 AnyDesk Software GmbH *
+   info 2025-10-17 13:36:21.818         ad   main   2776   2776                                  main - 
+   info 2025-10-17 13:36:21.818         ad   main   2776   2776                                  main - Distribution Info: Ubuntu 24.04.3 LTS
+   info 2025-10-17 13:36:21.818         ad   main   2776   2776                                  main - Command Line params: '--tray'
+   info 2025-10-17 13:36:21.818         ad   main   2776   2776                                  main - Found GLib Version: 2.80.
+   info 2025-10-17 13:36:21.839         ad   main   2776   2776                       app.common_path - user_data_dir = /home/biruk/.anydesk, logged_in_user_data_dir = /home/biruk/.anydesk, current_home = /home/biruk
+
+   info 2025-10-17 13:36:21.839         ad   main   2776   2776                       app.common_path - initialized user = /home/biruk/.anydesk, system = /etc/anydesk
+   info 2025-10-17 13:36:21.846       tray   main   2776   2776                           gui.gui_app - DPI scaling: 1.00 / 1.00
+   info 2025-10-17 13:36:21.846       tray   main   2776   2776                           gui.gui_app - Using std-resolution bitmaps.
+   info 2025-10-17 13:36:21.989       tray   main   2776   2776                       base.signal.hub - 1 threads.
+   info 2025-10-17 13:36:21.989       tray   main   2776   2776                    app.tunnel_ft_comp - Ready.
+   info 2025-10-17 13:36:22.093       tray   ctrl   2776   3021                      unix_app.control - Control startup.
+  error 2025-10-17 13:36:22.095       tray   ctrl   2776   3021              base.signal.global.event - Cannot set the subsignal count to a smaller or equal value.
+  error 2025-10-17 13:36:22.095       tray   main   2776   3019                        app.ctrl_thost - Could not register cache service.
+   info 2025-10-18 05:41:13.375         ad   main   2852   2852                         impl_selector - using avx2
+ * * * * * * * * * * * * * * * * * *
+   info 2025-10-18 05:41:13.376         ad   main   2852   2852                                  main - * AnyDesk Linux Startup *
+   info 2025-10-18 05:41:13.376         ad   main   2852   2852                                  main - * Version 7.0.2 ((unknown) 81073ca0a257bad0e07ac7286c58626bb3094524)
+   info 2025-10-18 05:41:13.376         ad   main   2852   2852                                  main - * Build 20250710152955
+   info 2025-10-18 05:41:13.376         ad   main   2852   2852                                  main - * Prefix ad
+   info 2025-10-18 05:41:13.376         ad   main   2852   2852                                  main - * Copyright (C) 2025 AnyDesk Software GmbH *
+   info 2025-10-18 05:41:13.376         ad   main   2852   2852                                  main - 
+   info 2025-10-18 05:41:13.376         ad   main   2852   2852                                  main - Distribution Info: Ubuntu 24.04.3 LTS
+   info 2025-10-18 05:41:13.377         ad   main   2852   2852                                  main - Command Line params: '--tray'
+   info 2025-10-18 05:41:13.377         ad   main   2852   2852                                  main - Found GLib Version: 2.80.
+   info 2025-10-18 05:41:13.423         ad   main   2852   2852                       app.common_path - user_data_dir = /home/biruk/.anydesk, logged_in_user_data_dir = /home/biruk/.anydesk, current_home = /home/biruk
+
+   info 2025-10-18 05:41:13.423         ad   main   2852   2852                       app.common_path - initialized user = /home/biruk/.anydesk, system = /etc/anydesk
+   info 2025-10-18 05:41:13.435       tray   main   2852   2852                           gui.gui_app - DPI scaling: 1.00 / 1.00
+   info 2025-10-18 05:41:13.435       tray   main   2852   2852                           gui.gui_app - Using std-resolution bitmaps.
+   info 2025-10-18 05:41:13.496       tray   main   2852   2852                       base.signal.hub - 1 threads.
+   info 2025-10-18 05:41:13.498       tray   main   2852   2852                    app.tunnel_ft_comp - Ready.
+   info 2025-10-18 05:41:13.794       tray   ctrl   2852   3087                      unix_app.control - Control startup.
+   info 2025-10-20 05:44:05.871         ad   main   2843   2843                         impl_selector - using avx2
+ * * * * * * * * * * * * * * * * * *
+   info 2025-10-20 05:44:05.872         ad   main   2843   2843                                  main - * AnyDesk Linux Startup *
+   info 2025-10-20 05:44:05.872         ad   main   2843   2843                                  main - * Version 7.0.2 ((unknown) 81073ca0a257bad0e07ac7286c58626bb3094524)
+   info 2025-10-20 05:44:05.872         ad   main   2843   2843                                  main - * Build 20250710152955
+   info 2025-10-20 05:44:05.872         ad   main   2843   2843                                  main - * Prefix ad
+   info 2025-10-20 05:44:05.872         ad   main   2843   2843                                  main - * Copyright (C) 2025 AnyDesk Software GmbH *
+   info 2025-10-20 05:44:05.872         ad   main   2843   2843                                  main - 
+   info 2025-10-20 05:44:05.872         ad   main   2843   2843                                  main - Distribution Info: Ubuntu 24.04.3 LTS
+   info 2025-10-20 05:44:05.872         ad   main   2843   2843                                  main - Command Line params: '--tray'
+   info 2025-10-20 05:44:05.872         ad   main   2843   2843                                  main - Found GLib Version: 2.80.
+   info 2025-10-20 05:44:05.891         ad   main   2843   2843                       app.common_path - user_data_dir = /home/biruk/.anydesk, logged_in_user_data_dir = /home/biruk/.anydesk, current_home = /home/biruk
+
+   info 2025-10-20 05:44:05.891         ad   main   2843   2843                       app.common_path - initialized user = /home/biruk/.anydesk, system = /etc/anydesk
+   info 2025-10-20 05:44:05.896       tray   main   2843   2843                           gui.gui_app - DPI scaling: 1.00 / 1.00
+   info 2025-10-20 05:44:05.896       tray   main   2843   2843                           gui.gui_app - Using std-resolution bitmaps.
+   info 2025-10-20 05:44:05.956       tray   main   2843   2843                       base.signal.hub - 1 threads.
+   info 2025-10-20 05:44:05.956       tray   main   2843   2843                    app.tunnel_ft_comp - Ready.
+   info 2025-10-20 05:44:06.095       tray   ctrl   2843   2993                      unix_app.control - Control startup.
+  error 2025-10-20 05:44:06.107       tray   ctrl   2843   2993              base.signal.global.event - Cannot set the subsignal count to a smaller or equal value.
+   info 2025-10-20 05:44:06.126       tray   timr   2843   3023          base.signal.local.timer_impl - Initialized master timer.
+warning 2025-10-20 05:44:06.145       tray   ctrl   2843   2993                      unix_app.control - Dropping out of date license response.
+   info 2025-10-20 05:44:06.148       tray   main   2843   2990                 data_control_listener - Aborting initialization of assembly data control. (feature disabled)
+   info 2025-10-20 05:44:06.315       tray   wrk0   2843   3001                      unix_app.control - Received new license info. (free-1, 32)
+   info 2025-10-21 05:48:04.704         ad   main   4167   4167                         impl_selector - using avx2
+ * * * * * * * * * * * * * * * * * *
+   info 2025-10-21 05:48:04.705         ad   main   4167   4167                                  main - * AnyDesk Linux Startup *
+   info 2025-10-21 05:48:04.705         ad   main   4167   4167                                  main - * Version 7.0.2 ((unknown) 81073ca0a257bad0e07ac7286c58626bb3094524)
+   info 2025-10-21 05:48:04.705         ad   main   4167   4167                                  main - * Build 20250710152955
+   info 2025-10-21 05:48:04.705         ad   main   4167   4167                                  main - * Prefix ad
+   info 2025-10-21 05:48:04.705         ad   main   4167   4167                                  main - * Copyright (C) 2025 AnyDesk Software GmbH *
+   info 2025-10-21 05:48:04.705         ad   main   4167   4167                                  main - 
+   info 2025-10-21 05:48:04.705         ad   main   4167   4167                                  main - Distribution Info: Ubuntu 24.04.3 LTS
+   info 2025-10-21 05:48:04.705         ad   main   4167   4167                                  main - Command Line params: '--tray'
+   info 2025-10-21 05:48:04.705         ad   main   4167   4167                                  main - Found GLib Version: 2.80.
+   info 2025-10-21 05:48:04.787         ad   main   4167   4167                       app.common_path - user_data_dir = /home/biruk/.anydesk, logged_in_user_data_dir = /home/biruk/.anydesk, current_home = /home/biruk
+
+   info 2025-10-21 05:48:04.787         ad   main   4167   4167                       app.common_path - initialized user = /home/biruk/.anydesk, system = /etc/anydesk
+   info 2025-10-21 05:48:04.796       tray   main   4167   4167                           gui.gui_app - DPI scaling: 1.00 / 1.00
+   info 2025-10-21 05:48:04.796       tray   main   4167   4167                           gui.gui_app - Using std-resolution bitmaps.
+   info 2025-10-21 05:48:05.016       tray   main   4167   4167                       base.signal.hub - 1 threads.
+   info 2025-10-21 05:48:05.016       tray   main   4167   4167                    app.tunnel_ft_comp - Ready.
+   info 2025-10-21 05:48:05.119       tray   ctrl   4167   4385                      unix_app.control - Control startup.
+  error 2025-10-21 05:48:05.121       tray   ctrl   4167   4385              base.signal.global.event - Cannot set the subsignal count to a smaller or equal value.
+   info 2025-10-21 13:09:06.274         ad   main   2764   2764                         impl_selector - using avx2
+ * * * * * * * * * * * * * * * * * *
+   info 2025-10-21 13:09:06.274         ad   main   2764   2764                                  main - * AnyDesk Linux Startup *
+   info 2025-10-21 13:09:06.274         ad   main   2764   2764                                  main - * Version 7.0.2 ((unknown) 81073ca0a257bad0e07ac7286c58626bb3094524)
+   info 2025-10-21 13:09:06.274         ad   main   2764   2764                                  main - * Build 20250710152955
+   info 2025-10-21 13:09:06.274         ad   main   2764   2764                                  main - * Prefix ad
+   info 2025-10-21 13:09:06.274         ad   main   2764   2764                                  main - * Copyright (C) 2025 AnyDesk Software GmbH *
+   info 2025-10-21 13:09:06.274         ad   main   2764   2764                                  main - 
+   info 2025-10-21 13:09:06.274         ad   main   2764   2764                                  main - Distribution Info: Ubuntu 24.04.3 LTS
+   info 2025-10-21 13:09:06.274         ad   main   2764   2764                                  main - Command Line params: '--tray'
+   info 2025-10-21 13:09:06.275         ad   main   2764   2764                                  main - Found GLib Version: 2.80.
+   info 2025-10-21 13:09:06.401         ad   main   2764   2764                       app.common_path - user_data_dir = /home/biruk/.anydesk, logged_in_user_data_dir = /home/biruk/.anydesk, current_home = /home/biruk
+
+   info 2025-10-21 13:09:06.401         ad   main   2764   2764                       app.common_path - initialized user = /home/biruk/.anydesk, system = /etc/anydesk
+   info 2025-10-21 13:09:06.430       tray   main   2764   2764                           gui.gui_app - DPI scaling: 1.00 / 1.00
+   info 2025-10-21 13:09:06.430       tray   main   2764   2764                           gui.gui_app - Using std-resolution bitmaps.
+   info 2025-10-21 13:09:06.598       tray   main   2764   2764                       base.signal.hub - 1 threads.
+   info 2025-10-21 13:09:06.599       tray   main   2764   2764                    app.tunnel_ft_comp - Ready.
+   info 2025-10-21 13:09:06.734       tray   ctrl   2764   3015                      unix_app.control - Control startup.
+  error 2025-10-21 13:09:06.737       tray   ctrl   2764   3015              base.signal.global.event - Cannot set the subsignal count to a smaller or equal value.
+   info 2025-10-22 05:32:49.225         ad   main   2830   2830                         impl_selector - using avx2
+ * * * * * * * * * * * * * * * * * *
+   info 2025-10-22 05:32:49.225         ad   main   2830   2830                                  main - * AnyDesk Linux Startup *
+   info 2025-10-22 05:32:49.225         ad   main   2830   2830                                  main - * Version 7.0.2 ((unknown) 81073ca0a257bad0e07ac7286c58626bb3094524)
+   info 2025-10-22 05:32:49.225         ad   main   2830   2830                                  main - * Build 20250710152955
+   info 2025-10-22 05:32:49.225         ad   main   2830   2830                                  main - * Prefix ad
+   info 2025-10-22 05:32:49.225         ad   main   2830   2830                                  main - * Copyright (C) 2025 AnyDesk Software GmbH *
+   info 2025-10-22 05:32:49.225         ad   main   2830   2830                                  main - 
+   info 2025-10-22 05:32:49.225         ad   main   2830   2830                                  main - Distribution Info: Ubuntu 24.04.3 LTS
+   info 2025-10-22 05:32:49.225         ad   main   2830   2830                                  main - Command Line params: '--tray'
+   info 2025-10-22 05:32:49.225         ad   main   2830   2830                                  main - Found GLib Version: 2.80.
+   info 2025-10-22 05:32:49.242         ad   main   2830   2830                       app.common_path - user_data_dir = /home/biruk/.anydesk, logged_in_user_data_dir = /home/biruk/.anydesk, current_home = /home/biruk
+
+   info 2025-10-22 05:32:49.242         ad   main   2830   2830                       app.common_path - initialized user = /home/biruk/.anydesk, system = /etc/anydesk
+   info 2025-10-22 05:32:49.257       tray   main   2830   2830                           gui.gui_app - DPI scaling: 1.00 / 1.00
+   info 2025-10-22 05:32:49.257       tray   main   2830   2830                           gui.gui_app - Using std-resolution bitmaps.
+   info 2025-10-22 05:32:49.463       tray   main   2830   2830                       base.signal.hub - 1 threads.
+   info 2025-10-22 05:32:49.463       tray   main   2830   2830                    app.tunnel_ft_comp - Ready.
+   info 2025-10-22 05:32:49.608       tray   ctrl   2830   3062                      unix_app.control - Control startup.
+  error 2025-10-22 05:32:49.609       tray   ctrl   2830   3062              base.signal.global.event - Cannot set the subsignal count to a smaller or equal value.
+   info 2025-10-23 05:46:56.538         ad   main   2846   2846                         impl_selector - using avx2
+ * * * * * * * * * * * * * * * * * *
+   info 2025-10-23 05:46:56.538         ad   main   2846   2846                                  main - * AnyDesk Linux Startup *
+   info 2025-10-23 05:46:56.538         ad   main   2846   2846                                  main - * Version 7.0.2 ((unknown) 81073ca0a257bad0e07ac7286c58626bb3094524)
+   info 2025-10-23 05:46:56.538         ad   main   2846   2846                                  main - * Build 20250710152955
+   info 2025-10-23 05:46:56.538         ad   main   2846   2846                                  main - * Prefix ad
+   info 2025-10-23 05:46:56.538         ad   main   2846   2846                                  main - * Copyright (C) 2025 AnyDesk Software GmbH *
+   info 2025-10-23 05:46:56.538         ad   main   2846   2846                                  main - 
+   info 2025-10-23 05:46:56.538         ad   main   2846   2846                                  main - Distribution Info: Ubuntu 24.04.3 LTS
+   info 2025-10-23 05:46:56.538         ad   main   2846   2846                                  main - Command Line params: '--tray'
+   info 2025-10-23 05:46:56.538         ad   main   2846   2846                                  main - Found GLib Version: 2.80.
+   info 2025-10-23 05:46:56.565         ad   main   2846   2846                       app.common_path - user_data_dir = /home/biruk/.anydesk, logged_in_user_data_dir = /home/biruk/.anydesk, current_home = /home/biruk
+
+   info 2025-10-23 05:46:56.565         ad   main   2846   2846                       app.common_path - initialized user = /home/biruk/.anydesk, system = /etc/anydesk
+   info 2025-10-23 05:46:56.575       tray   main   2846   2846                           gui.gui_app - DPI scaling: 1.00 / 1.00
+   info 2025-10-23 05:46:56.575       tray   main   2846   2846                           gui.gui_app - Using std-resolution bitmaps.
+   info 2025-10-23 05:46:56.676       tray   main   2846   2846                       base.signal.hub - 1 threads.
+   info 2025-10-23 05:46:56.677       tray   main   2846   2846                    app.tunnel_ft_comp - Ready.
+   info 2025-10-23 05:46:56.810       tray   ctrl   2846   3002                      unix_app.control - Control startup.
+  error 2025-10-23 05:46:56.811       tray   ctrl   2846   3002              base.signal.global.event - Cannot set the subsignal count to a smaller or equal value.
+   info 2025-10-23 05:46:56.816       tray   main   2846   3000                 data_control_listener - Aborting initialization of assembly data control. (feature disabled)
+warning 2025-10-23 05:46:56.846       tray   ctrl   2846   3002                      unix_app.control - Dropping out of date license response.
+   info 2025-10-23 05:46:56.859       tray   timr   2846   3030          base.signal.local.timer_impl - Initialized master timer.
+   info 2025-10-23 05:46:57.046       tray   wrk0   2846   3006                      unix_app.control - Received new license info. (free-1, 32)
+   info 2025-10-23 06:34:28.797         ad   main   2795   2795                         impl_selector - using avx2
+ * * * * * * * * * * * * * * * * * *
+   info 2025-10-23 06:34:28.797         ad   main   2795   2795                                  main - * AnyDesk Linux Startup *
+   info 2025-10-23 06:34:28.797         ad   main   2795   2795                                  main - * Version 7.0.2 ((unknown) 81073ca0a257bad0e07ac7286c58626bb3094524)
+   info 2025-10-23 06:34:28.797         ad   main   2795   2795                                  main - * Build 20250710152955
+   info 2025-10-23 06:34:28.797         ad   main   2795   2795                                  main - * Prefix ad
+   info 2025-10-23 06:34:28.797         ad   main   2795   2795                                  main - * Copyright (C) 2025 AnyDesk Software GmbH *
+   info 2025-10-23 06:34:28.797         ad   main   2795   2795                                  main - 
+   info 2025-10-23 06:34:28.797         ad   main   2795   2795                                  main - Distribution Info: Ubuntu 24.04.3 LTS
+   info 2025-10-23 06:34:28.797         ad   main   2795   2795                                  main - Command Line params: '--tray'
+   info 2025-10-23 06:34:28.797         ad   main   2795   2795                                  main - Found GLib Version: 2.80.
+   info 2025-10-23 06:34:28.847         ad   main   2795   2795                       app.common_path - user_data_dir = /home/biruk/.anydesk, logged_in_user_data_dir = /home/biruk/.anydesk, current_home = /home/biruk
+
+   info 2025-10-23 06:34:28.847         ad   main   2795   2795                       app.common_path - initialized user = /home/biruk/.anydesk, system = /etc/anydesk
+   info 2025-10-23 06:34:28.859       tray   main   2795   2795                           gui.gui_app - DPI scaling: 1.00 / 1.00
+   info 2025-10-23 06:34:28.859       tray   main   2795   2795                           gui.gui_app - Using std-resolution bitmaps.
+   info 2025-10-23 06:34:28.921       tray   main   2795   2795                       base.signal.hub - 1 threads.
+   info 2025-10-23 06:34:28.921       tray   main   2795   2795                    app.tunnel_ft_comp - Ready.
+   info 2025-10-23 06:34:29.018       tray   ctrl   2795   3010                      unix_app.control - Control startup.
+  error 2025-10-23 06:34:29.021       tray   main   2795   3008                          global_event - Could not create named pipe (2)
+  error 2025-10-23 06:34:29.021       tray   main   2795   3008                           ipc_mailbox - Cannot open wake event.
+   info 2025-10-23 06:46:51.007         ad   main   2860   2860                         impl_selector - using avx2
+ * * * * * * * * * * * * * * * * * *
+   info 2025-10-23 06:46:51.007         ad   main   2860   2860                                  main - * AnyDesk Linux Startup *
+   info 2025-10-23 06:46:51.007         ad   main   2860   2860                                  main - * Version 7.0.2 ((unknown) 81073ca0a257bad0e07ac7286c58626bb3094524)
+   info 2025-10-23 06:46:51.007         ad   main   2860   2860                                  main - * Build 20250710152955
+   info 2025-10-23 06:46:51.007         ad   main   2860   2860                                  main - * Prefix ad
+   info 2025-10-23 06:46:51.007         ad   main   2860   2860                                  main - * Copyright (C) 2025 AnyDesk Software GmbH *
+   info 2025-10-23 06:46:51.007         ad   main   2860   2860                                  main - 
+   info 2025-10-23 06:46:51.007         ad   main   2860   2860                                  main - Distribution Info: Ubuntu 24.04.3 LTS
+   info 2025-10-23 06:46:51.007         ad   main   2860   2860                                  main - Command Line params: '--tray'
+   info 2025-10-23 06:46:51.007         ad   main   2860   2860                                  main - Found GLib Version: 2.80.
+   info 2025-10-23 06:46:51.033         ad   main   2860   2860                       app.common_path - user_data_dir = /home/biruk/.anydesk, logged_in_user_data_dir = /home/biruk/.anydesk, current_home = /home/biruk
+
+   info 2025-10-23 06:46:51.034         ad   main   2860   2860                       app.common_path - initialized user = /home/biruk/.anydesk, system = /etc/anydesk
+   info 2025-10-23 06:46:51.059       tray   main   2860   2860                           gui.gui_app - DPI scaling: 1.00 / 1.00
+   info 2025-10-23 06:46:51.059       tray   main   2860   2860                           gui.gui_app - Using std-resolution bitmaps.
+   info 2025-10-23 06:46:51.184       tray   main   2860   2860                       base.signal.hub - 1 threads.
+   info 2025-10-23 06:46:51.184       tray   main   2860   2860                    app.tunnel_ft_comp - Ready.
+   info 2025-10-23 06:46:51.384       tray   ctrl   2860   3065                      unix_app.control - Control startup.
+  error 2025-10-23 06:46:51.393       tray   ctrl   2860   3065              base.signal.global.event - Cannot set the subsignal count to a smaller or equal value.
+  error 2025-10-23 06:46:51.399       tray   main   2860   2991                         ipc_apartment - Invoker factory for MID (0x3cadb40acd62e4c3, 0xf7ec0341a84030d9) not found.
+   info 2025-10-23 06:46:51.401       tray   main   2860   3063                 data_control_listener - Aborting initialization of assembly data control. (feature disabled)
+  error 2025-10-23 06:46:51.401       tray   main   2860   3063                         ipc_apartment - Stub factory for IID (0xa3bee6f4f054b80f, 0x75ea4b5c9482a809) not found.
+  error 2025-10-23 06:46:51.401       tray   main   2860   2991                         ipc_apartment - RPC deserializing failed: deserialize_error.
+   info 2025-10-24 06:04:21.607         ad   main   3082   3082                         impl_selector - using avx2
+ * * * * * * * * * * * * * * * * * *
+   info 2025-10-24 06:04:21.608         ad   main   3082   3082                                  main - * AnyDesk Linux Startup *
+   info 2025-10-24 06:04:21.608         ad   main   3082   3082                                  main - * Version 7.0.2 ((unknown) 81073ca0a257bad0e07ac7286c58626bb3094524)
+   info 2025-10-24 06:04:21.608         ad   main   3082   3082                                  main - * Build 20250710152955
+   info 2025-10-24 06:04:21.608         ad   main   3082   3082                                  main - * Prefix ad
+   info 2025-10-24 06:04:21.608         ad   main   3082   3082                                  main - * Copyright (C) 2025 AnyDesk Software GmbH *
+   info 2025-10-24 06:04:21.608         ad   main   3082   3082                                  main - 
+   info 2025-10-24 06:04:21.608         ad   main   3082   3082                                  main - Distribution Info: Ubuntu 24.04.3 LTS
+   info 2025-10-24 06:04:21.608         ad   main   3082   3082                                  main - Command Line params: '--tray'
+   info 2025-10-24 06:04:21.608         ad   main   3082   3082                                  main - Found GLib Version: 2.80.
+   info 2025-10-24 06:04:21.640         ad   main   3082   3082                       app.common_path - user_data_dir = /home/biruk/.anydesk, logged_in_user_data_dir = /home/biruk/.anydesk, current_home = /home/biruk
+
+   info 2025-10-24 06:04:21.640         ad   main   3082   3082                       app.common_path - initialized user = /home/biruk/.anydesk, system = /etc/anydesk
+   info 2025-10-24 06:04:21.649       tray   main   3082   3082                           gui.gui_app - DPI scaling: 1.00 / 1.00
+   info 2025-10-24 06:04:21.649       tray   main   3082   3082                           gui.gui_app - Using std-resolution bitmaps.
+   info 2025-10-24 06:04:21.704       tray   main   3082   3082                       base.signal.hub - 1 threads.
+   info 2025-10-24 06:04:21.704       tray   main   3082   3082                    app.tunnel_ft_comp - Ready.
+   info 2025-10-24 06:04:21.892       tray   ctrl   3082   3239                      unix_app.control - Control startup.
+  error 2025-10-24 06:04:21.894       tray   ctrl   3082   3239              base.signal.global.event - Cannot set the subsignal count to a smaller or equal value.
+   info 2025-10-24 06:04:21.909       tray   main   3082   3237                 data_control_listener - Aborting initialization of assembly data control. (feature disabled)
+warning 2025-10-24 06:04:21.911       tray   ctrl   3082   3239                      unix_app.control - Dropping out of date license response.
+   info 2025-10-24 06:04:21.918       tray   timr   3082   3258          base.signal.local.timer_impl - Initialized master timer.
+   info 2025-10-24 06:04:22.084       tray   wrk0   3082   3248                      unix_app.control - Received new license info. (free-1, 32)
+   info 2025-10-25 05:43:26.576         ad   main   2947   2947                         impl_selector - using avx2
+ * * * * * * * * * * * * * * * * * *
+   info 2025-10-25 05:43:26.577         ad   main   2947   2947                                  main - * AnyDesk Linux Startup *
+   info 2025-10-25 05:43:26.577         ad   main   2947   2947                                  main - * Version 7.0.2 ((unknown) 81073ca0a257bad0e07ac7286c58626bb3094524)
+   info 2025-10-25 05:43:26.577         ad   main   2947   2947                                  main - * Build 20250710152955
+   info 2025-10-25 05:43:26.577         ad   main   2947   2947                                  main - * Prefix ad
+   info 2025-10-25 05:43:26.577         ad   main   2947   2947                                  main - * Copyright (C) 2025 AnyDesk Software GmbH *
+   info 2025-10-25 05:43:26.577         ad   main   2947   2947                                  main - 
+   info 2025-10-25 05:43:26.577         ad   main   2947   2947                                  main - Distribution Info: Ubuntu 24.04.3 LTS
+   info 2025-10-25 05:43:26.577         ad   main   2947   2947                                  main - Command Line params: '--tray'
+   info 2025-10-25 05:43:26.577         ad   main   2947   2947                                  main - Found GLib Version: 2.80.
+   info 2025-10-25 05:43:26.590         ad   main   2947   2947                       app.common_path - user_data_dir = /home/biruk/.anydesk, logged_in_user_data_dir = /home/biruk/.anydesk, current_home = /home/biruk
+
+   info 2025-10-25 05:43:26.590         ad   main   2947   2947                       app.common_path - initialized user = /home/biruk/.anydesk, system = /etc/anydesk
+   info 2025-10-25 05:43:26.596       tray   main   2947   2947                           gui.gui_app - DPI scaling: 1.00 / 1.00
+   info 2025-10-25 05:43:26.596       tray   main   2947   2947                           gui.gui_app - Using std-resolution bitmaps.
+   info 2025-10-25 05:43:26.680       tray   main   2947   2947                       base.signal.hub - 1 threads.
+   info 2025-10-25 05:43:26.681       tray   main   2947   2947                    app.tunnel_ft_comp - Ready.
+   info 2025-10-25 05:43:26.913       tray   ctrl   2947   3149                      unix_app.control - Control startup.
+  error 2025-10-25 05:43:26.923       tray   ctrl   2947   3149              base.signal.global.event - Cannot set the subsignal count to a smaller or equal value.

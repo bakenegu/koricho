@@ -1,69 +1,3 @@
-eval "$(ssh-agent -s)"
-ssh-add ~/.ssh/id_ed25519
-cat ~/.ssh/id_ed25519.pub
-git push -u origin main
-git remote remove origin
-git branch
-git pull origin main
-git checkout -b bakenegu
-git push origin bakenegu
-cd Documents
-git clone https://github.com/mez-vulero/gda-website
-windsurf .
-cd ggda-website
-cd gda-website
-windsurf .
-cd Docuemnts
-cd documents
-cd Documents
-git clone https://github.com/mez-vulero/gda-website
-npm run dev
-git remote -v
-git remote set-url origin git@github.com:GlobeDock-Academy/gda-website.git
-ls -la ~/.ssh
-eval "$(ssh-agent -s)" && ssh-add ~/.ssh/id_ed25519
-npm run dev
-git push to origin bakenegu
-git push origin bakenegu
-cat ~/.ssh/id_ed25519.pub
-ssh -T git@github.com
-git push origin bakenegu
-git pull origin jb
-git pull origin jb --no-rebase
-ssh frappe test.globedocket.com
-ssh frappe@test.globedocket.com
-curl -4 ifconfig.co
-ssh frappe@test.globedocket.com
-git push origin main
-git fetch origin
-git switch main  
-git pull --ff-only origin main
-git merge bakenegu
-git pull origin main
-git status
-git push
-git status
-cd /home/biruk/CascadeProjects
-mkdir -p /home/biruk/CascadeProjects/my-react-app
-cd /home/biruk/CascadeProjects/my-react-app
-npx create-react-app .
-npm start
-cd /home/biruk/CascadeProjects
-mv my-react-app temari
-npm install react-icons
-git status
-git init
-git add .
-git commit -m "Initial commit: E-learning platform with grade and subject selection"
-git remote -v
-npm start
-git status
-git add .
-git commit -m "Implement authentication and admin resource management
-
-- Add login/logout functionality
-- Create protected routes for admin features
-- Implement resource list and admin add resource pages
 - Fix logo display issue
 - Update routing and navigation"
 git remote add origin https://github.com/bakenegu/Temari-lije.git
@@ -1998,3 +1932,69 @@ cd
 hostname -I
 sudo apt-get update
 sudo apt-get upgrade windsurf
+git add .
+git commit -m "verison one"
+git push
+git remote add origin https://github.com/bakenegu/koricho.git
+git push --set-upstream origin master
+git push
+git remote add origin https://github.com/bakenegu/koricho.git
+git remote -v
+git remote set-url origin https://github.com/bakenegu/koricho.git
+git push
+git remote remove origin
+git remote add origin https://github.com/bakenegu/koricho.git
+git remote -v
+git push --set-upstream origin master
+git push --force origin master
+pnpm install
+npm install
+npm install --legacy-peer-deps
+npm run dev
+[200~# Save into your local Downloads folder
+scp frappe@test.globedocket.com:/home/frappe/knowledgebase/data/destinations.json ~/Downloads/
+ssh frappe@test.globedocket.com
+ssh frappe@test.globedocket.com
+ssh frappe@test.globedocket.com
+git push
+eval 'xdg-open http://localhost:3000 >/dev/null 2>&1 || true'
+npm run dev
+git push
+eval 'npm run dev'
+node -v
+npm -v
+ssh frappe@test.globedocket.com
+npm run dev
+eval "ps -ef | grep 'next dev'"
+eval 'curl -I http://localhost:3000'
+git add .
+git commit -m "floating animation"
+git push
+npm run dev
+git add .
+git commit -m "water flow all over the page"
+git psuh
+git push
+npm run dev
+git add .
+git commit -m "updates on the three things"
+git push
+ssh frappe@test.globedocket.com
+sudo apt update
+sudo apt install nodejs npm
+sudo ln -s /usr/bin/nodejs /usr/bin/node
+node -v
+npm -v
+npx create-next-app@latest rntutorial --typescript
+cd rntutorial
+npm run dev
+npm run build
+npm run dev
+npm run build
+npm run dev
+lsb_release -a
+# add PPA (optional but gives newer qBittorrent builds)
+sudo add-apt-repository ppa:qbittorrent-team/qbittorrent-stable -y
+sudo apt update
+sudo apt install qbittorrent -y
+qbittorrent
